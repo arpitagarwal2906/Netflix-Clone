@@ -32,3 +32,7 @@ If you have suggestions or improvements, feel free to fork the repository and su
 
 - **Netflix:** For the design inspiration behind this project.
 - **Community Resources:** Thanks to all the developers and designers who provide open-source content for learning and practice.
+
+## Project Screenshot
+
+![Screenshot_3-9-2024_145626_127 0 0 1](https://github.com/user-attachments/assets/8d169820-26b4-4bbd-92b3-bf4a0276c941)
